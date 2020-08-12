@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning new technologies 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 and 2021 Goals: Learning  and Exploring Data Science
-- ⚡ Fun fact: I love to learn new things and newer technologies...
+- ⚡ Fact: I love to learn new things and newer technologies...
 
 ---
 
