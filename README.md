@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="http://bit.ly/NIKHILGR" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="https://twitter.com/NikhilGR2" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="https://www.linkedin.com/in/nikhil-gr-415399170/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="http://bit.ly/NIKHILGR" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Nikhil GR | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="cNikhil GR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -53,3 +53,7 @@
 - [AUTOMATED WEB APPLICATION USING KUBERNETES](https://www.linkedin.com/pulse/automated-web-app-deployment-using-kubernetes-nikhil-gr)
 
 ---
+
+[website]: bit.ly/NIKHILGR
+[twitter]: https://twitter.com/NikhilGR2
+[linkedin]: https://www.linkedin.com/in/nikhil-gr-415399170/
