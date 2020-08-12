@@ -54,6 +54,6 @@
 
 ---
 
-[website]: bit.ly/NIKHILGR
+[website]: https://sites.google.com/view/nikhilgr/home
 [twitter]: https://twitter.com/NikhilGR2
 [linkedin]: https://www.linkedin.com/in/nikhil-gr-415399170/
