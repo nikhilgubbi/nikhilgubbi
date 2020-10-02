@@ -59,4 +59,4 @@
 [linkedin]: https://www.linkedin.com/in/nikhil-gr-415399170/
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=nikhilgubbi&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=nikhilgubbi?theme=radical&count_private=true&show_icons=true&theme=radical)
