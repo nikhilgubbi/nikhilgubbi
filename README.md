@@ -1,10 +1,12 @@
 ### Hi there, I'm NIKHIL GR student at S J C INSTITUTE OF TECHNOLOGY   👋
 
-## I'm a STUDENT, DEVELOPER, DATA SCIENCE ENTHUSIAST!
+## I'm an Associate at TCS Digital, DEVELOPER, DATA SCIENCE ENTHUSIAST!
+-    Google Cloud Certified Associate Cloud Engineer, IBM certified Professional Data Scientist
+- 🥅  I'm currently working upon Google Cloud
 - 🔭 I’m currently working on a [FINAL YEAR PROJECT]!
 - 🌱 I’m currently learning new technologies 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 and 2021 Goals: Learning  and Exploring Data Science
+- 🥅 2022 and 2023 Goals: Learning  and Exploring Data Science. Learning Google Cloud and AWS Cloud. Completing Global Certifications
 - ⚡ Fact: I love to learn new things and newer technologies...
 
 ---
