@@ -2,11 +2,11 @@
 
 ## I'm an Associate at TCS Digital, DEVELOPER, DATA SCIENCE ENTHUSIAST!
 -    Google Cloud Certified Associate Cloud Engineer, IBM certified Professional Data Scientist
-- 🥅  I'm currently working upon Google Cloud
-- 🔭 I’m currently working on a [FINAL YEAR PROJECT]!
+- 🥅  I'm currently working as a Full Stack Developer
+- 🔭 I’m have worked upon on a [FINAL YEAR PROJECT]! called Yashodhara
 - 🌱 I’m currently learning new technologies 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 and 2023 Goals: Learning  and Exploring Data Science. Learning Google Cloud and AWS Cloud. Completing Global Certifications
+- 🥅 2022 and 2023 Goals: Improving Problem Solving Skills. Learning  and Exploring Data Science. Learning Google Cloud and AWS Cloud. Completing Global Certifications
 - ⚡ Fact: I love to learn new things and newer technologies...
 
 ---
